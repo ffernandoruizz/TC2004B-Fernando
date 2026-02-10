@@ -1,0 +1,18 @@
+Nombre: Fernando Ruiz
+Matrícula: A01253906
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Quiero aprender ciencia de datos
+
+¿Qué espero aprender?
+Pleantear soluciones a problemas que pueden ser resueltos mediante ciencia de datos
+
+Herramientas que ya conozco:
+Python
+R
+
+Herramientas nuevas para mí:
+Jupyter
+Nano
