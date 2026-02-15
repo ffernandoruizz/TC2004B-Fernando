@@ -17,3 +17,4 @@ Herramientas nuevas para mí:
 Jupyter
 Nano
 SSH
+Ambientes virtuales
