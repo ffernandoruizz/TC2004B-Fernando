@@ -12,6 +12,7 @@ Pleantear soluciones a problemas que pueden ser resueltos mediante ciencia de da
 Herramientas que ya conozco:
 Python
 R
+Zsh
 
 Herramientas nuevas para mí:
 Jupyter
